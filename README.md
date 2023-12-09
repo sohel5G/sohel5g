@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![JWT](https://img.shields.io/badge/JSON%20Web%20Token-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-56A5FF?style=flat-square&logo=axios&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
