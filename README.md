@@ -14,6 +14,25 @@ a Frontend Developer diving into the MERN stack. Skilled in React, JavaScript, N
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+- 🔭 I’m currently working on various exciting web development projects, honing my skills in the MERN stack.
+
+- 🌱 I’m currently learning advanced React patterns and exploring best practices for scalable backend architecture with Node.js and MongoDB.
+
+- 👯 I’m looking to collaborate on innovative projects that push the boundaries of web development and contribute to a vibrant developer community.
+
+- 🤔 I’m looking for help with staying up-to-date with the latest industry trends and emerging technologies in the ever-evolving world of web development.
+
+- 💬 Ask me about anything related to React, JavaScript, Node.js, Express.js, MongoDB, or web development in general.
+
+- 📫 How to reach me: Feel free to drop me an email at [contactsohelrana@gmail.com](mailto:contactsohelrana@gmail.com). I'm always open to connect and chat about coding, collaboration, or any exciting opportunities.
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I enjoy experimenting with new coding challenges and find inspiration in solving real-world problems through technology.
+
+
+
 ## Technology I worked on
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
