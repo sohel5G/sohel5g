@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sohel5g)  
+(https://raw.githubusercontent.com/sohel5G/sohel5g/main/MERN%20Stack%20developer.png)
 
 Here are some ideas to get you started:
 
