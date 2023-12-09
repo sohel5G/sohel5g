@@ -1,9 +1,9 @@
 ![](https://raw.githubusercontent.com/sohel5G/sohel5g/main/MERN%20Stack%20developer.png "Sohel Rana - FRONT END DEVELOPER")
 
-# 👋 Hey there, I'm Sohel Rana, 
+## 👋 Hey there, I'm Sohel Rana, 
 ### a Frontend Developer diving into the MERN stack. Skilled in React, JavaScript, Node.js, Express.js, and MongoDB, I'm on a mission to craft engaging web experiences.
 
-🚀 I thrive in collaborative environments, focusing on clean code and best practices. My goal is to transform user experiences and contribute to innovative projects. Let's connect and code something extraordinary!
+### 🚀 I thrive in collaborative environments, focusing on clean code and best practices. My goal is to transform user experiences and contribute to innovative projects. Let's connect and code something extraordinary!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
