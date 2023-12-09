@@ -5,27 +5,13 @@ a Frontend Developer diving into the MERN stack. Skilled in React, JavaScript, N
 
 🚀 I thrive in collaborative environments, focusing on clean code and best practices. My goal is to transform user experiences and contribute to innovative projects. Let's connect and code something extraordinary!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 - 🔭 Currently working on diverse MERN stack projects.
 - 🌱 Learning advanced React patterns and scalable backend architecture.
 - 👯 Open to collaborating on innovative web development projects.
 - 🤔 Seeking help with staying updated on industry trends.
 - 💬 Ask me about React, JavaScript, Node.js, and web development.
-- 📫 Reach me via [contactsohelrana@gmail.com](mailto:contactsohelrana@gmail.com).
-- 😄 Pronouns: He/Him.
+- 📫 Reach me via [contactsohelrana@gmail.com](mailto:contactsohelrana@gmail.com) or connect on [Linkedin](https://www.linkedin.com/in/sohel5G/)
 - ⚡ Fun fact: Enjoys tackling new coding challenges and solving real-world problems with tech.
-
-
-
 
 ## Technology I worked on
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
