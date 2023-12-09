@@ -1,4 +1,4 @@
-!(https://raw.githubusercontent.com/sohel5G/sohel5g/main/MERN%20Stack%20developer.png "Sohel Rana - FRONT END DEVELOPER")
+![](https://raw.githubusercontent.com/sohel5G/sohel5g/main/MERN%20Stack%20developer.png "Sohel Rana - FRONT END DEVELOPER")
 
 Here are some ideas to get you started:
 
