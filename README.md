@@ -15,21 +15,15 @@ a Frontend Developer diving into the MERN stack. Skilled in React, JavaScript, N
 - ⚡ Fun fact: ...
 
 
-- 🔭 I’m currently working on various exciting web development projects, honing my skills in the MERN stack.
+- 🔭 Currently working on diverse MERN stack projects.
+- 🌱 Learning advanced React patterns and scalable backend architecture.
+- 👯 Open to collaborating on innovative web development projects.
+- 🤔 Seeking help with staying updated on industry trends.
+- 💬 Ask me about React, JavaScript, Node.js, and web development.
+- 📫 Reach me via [contactsohelrana@gmail.com](mailto:contactsohelrana@gmail.com).
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: Enjoys tackling new coding challenges and solving real-world problems with tech.
 
-- 🌱 I’m currently learning advanced React patterns and exploring best practices for scalable backend architecture with Node.js and MongoDB.
-
-- 👯 I’m looking to collaborate on innovative projects that push the boundaries of web development and contribute to a vibrant developer community.
-
-- 🤔 I’m looking for help with staying up-to-date with the latest industry trends and emerging technologies in the ever-evolving world of web development.
-
-- 💬 Ask me about anything related to React, JavaScript, Node.js, Express.js, MongoDB, or web development in general.
-
-- 📫 How to reach me: Feel free to drop me an email at [contactsohelrana@gmail.com](mailto:contactsohelrana@gmail.com). I'm always open to connect and chat about coding, collaboration, or any exciting opportunities.
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I enjoy experimenting with new coding challenges and find inspiration in solving real-world problems through technology.
 
 
 
