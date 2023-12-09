@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sohel5g&theme=tokyonight-duo&hide_border=true&card_width=500)](https://git.io/streak-stats)
