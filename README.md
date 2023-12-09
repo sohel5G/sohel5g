@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 
 ## title three
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohel5g&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohel5g&theme=blueberry)
 
 
