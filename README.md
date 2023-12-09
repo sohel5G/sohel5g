@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 
 
+## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sohel5g&theme=tokyonight-duo&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 
@@ -42,3 +43,4 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohel5G/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/sohel5G/)
+
