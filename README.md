@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/sohel5G/sohel5g/main/MERN%20Stack%20developer.png)
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/sohel5G/sohel5g/main/MERN%20Stack%20developer.png "San Juan Mountains")
 
 Here are some ideas to get you started:
 
