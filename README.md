@@ -41,7 +41,7 @@ a Frontend Developer diving into the MERN stack. Skilled in React, JavaScript, N
 
 <br />
 <p align="center"  width="100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohel5g&theme=blueberry" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sohel5g&theme=blueberry" alt="GitHub Streak" />
 </p>
 <br />
 
