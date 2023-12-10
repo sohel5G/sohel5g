@@ -44,4 +44,7 @@ a Frontend Developer diving into the MERN stack. Skilled in React, JavaScript, N
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohel5g&theme=blueberry)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohel5g&theme=blueberry)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohel5g&theme=blueberry)
 
