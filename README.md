@@ -13,7 +13,7 @@ a Frontend Developer diving into the MERN stack. Skilled in React, JavaScript, N
 - 📫 Reach me via [contactsohelrana@gmail.com](mailto:contactsohelrana@gmail.com) or connect on [Linkedin](https://www.linkedin.com/in/sohel5G/)
 - ⚡ Fun fact: Enjoys tackling new coding challenges and solving real-world problems with tech.
 
-### <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technology I worked on
+### <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"/> Technology I worked on
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
