@@ -41,12 +41,15 @@ a Frontend Developer diving into the MERN stack. Skilled in React, JavaScript, N
 <p align="center"  width="100%">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sohel5g&theme=blueberry&hide_border=true" alt="GitHub Streak" />
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohel5g&theme=blueberry)
-
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohel5g&theme=blueberry" alt="Top Languages" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohel5g&theme=blueberry" alt="GitHub Stats" /> |
-| --- | --- |
-
+<p align="center">
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohel5g&theme=blueberry" />
+</p>
+<a href="http://www.github.com/sohel5G">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohel5g&theme=blueberry" alt="Top Languages" />
+</a>
+<a href="http://www.github.com/sohel5G">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohel5g&theme=blueberry" alt="GitHub Stats" />
+</a>
 
 
 
