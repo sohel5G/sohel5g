@@ -3,8 +3,6 @@
    <img width="100%" src="https://raw.githubusercontent.com/sohel5G/sohel5g/main/Frontend%20web%20developer.png" alt="Sohel Rana - Web Developer" />
   </a>
 </p>
-![](https://raw.githubusercontent.com/sohel5G/sohel5g/main/Frontend%20web%20developer.png "Sohel Rana - FRONT END DEVELOPER")
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> Hey there, I'm Sohel Rana, 
 a Frontend Developer diving into the MERN stack. Skilled in React, JavaScript, Node.js, Express.js, and MongoDB, I'm on a mission to craft engaging web experiences.
 
